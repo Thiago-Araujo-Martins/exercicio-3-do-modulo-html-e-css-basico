@@ -1,0 +1,11 @@
+.paragrafo-cinza {
+    background-color: #F5F5F5;
+}
+
+.paragrafo-colorido {
+    background-color: #F0CCE2;
+}
+ p {
+    margin: 40px;
+    padding: 20px;
+ }
